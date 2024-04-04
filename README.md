@@ -13,7 +13,7 @@
 
 # Decision Tree:
 ## Goal Of This Project:
-        This is for Practice purpose, which I am doing for getting better understanding of different Machien learning algorithm and models, understand them more and clearly, which will help me in the future " Of Course ", and I am using this dataset which I have created on my own, Which is BTS_FAN_Detector, ya I know What are you thinking This is one of the " quite odd and creatively childish ( I don't even know if there is a saying like that ), I just tried something different ", I already made a model on using Logestic Regression on this Dataset, so here I am doing my best to understand new the algorithms of the machine learning and today is a time for Decision Tree, "hmm, here's go nothig", THANK YOU FOR YOUR TIME.
+This is for Practice purpose, which I am doing for getting better understanding of different Machien learning algorithm and models, understand them more and clearly, which will help me in the future " Of Course ", and I am using this dataset which I have created on my own, Which is BTS_FAN_Detector, ya I know What are you thinking This is one of the " quite odd and creatively childish ( I don't even know if there is a saying like that ), I just tried something different ", I already made a model on using Logestic Regression on this Dataset, so here I am doing my best to understand new the algorithms of the machine learning and today is a time for Decision Tree, "hmm, here's go nothig", THANK YOU FOR YOUR TIME.
 ## 🛠 Skills
 Python, ML, data science, java, Ms Office
 
